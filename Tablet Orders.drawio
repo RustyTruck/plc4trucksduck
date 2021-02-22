@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T22:21:18.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="d6f3GZSYpTADNJIL5fEs" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T22:26:02.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="K4kw5nvM4jYMeGiYDNOG" version="14.4.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1185" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="XOxbf55b8lKNXetok6DY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-15" source="XOxbf55b8lKNXetok6DY-30" target="XOxbf55b8lKNXetok6DY-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-30" value="Zebra did not develop in Andriod 9" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-15" vertex="1">
+        <mxCell id="XOxbf55b8lKNXetok6DY-30" value="Zebra did not develop in Android 9" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-15" vertex="1">
           <mxGeometry x="320" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-15" source="XOxbf55b8lKNXetok6DY-31" target="XOxbf55b8lKNXetok6DY-42" edge="1">
@@ -151,8 +151,8 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-41" value="&lt;span&gt;How many more Samsung licences to procure?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
           <mxGeometry x="326" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-35" value="Explore RMA Inventory control with tablets" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
-          <mxGeometry x="930" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-35" value="Explore RMA app inventory control with tablets" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
+          <mxGeometry x="890" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-54" value="How many additional tablets may be pulled from shops?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
           <mxGeometry x="740" y="10" width="80" height="80" as="geometry" />
