@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T14:57:52.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="k0nZV9nhwRlzcxR-l7rr" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T18:02:11.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="kChs0oTvLyknOnYJAblt" version="14.4.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1673" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -208,7 +208,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XOxbf55b8lKNXetok6DY-42" target="XOxbf55b8lKNXetok6DY-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="-420" />
+              <mxPoint x="611" y="-420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XOxbf55b8lKNXetok6DY-37" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -237,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-7" value="Provisioning" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="81" y="-50" width="1020" height="120" as="geometry" />
+          <mxGeometry x="80" y="-50" width="1020" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-39" value="Create Golden Image for Zebra" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="A7MQ0ffrwgBu7bjcszJp-7" vertex="1">
           <mxGeometry x="520" y="15" width="80" height="80" as="geometry" />
