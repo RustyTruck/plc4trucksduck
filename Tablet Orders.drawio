@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T18:39:30.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="LqWiSyvmwVsuNZDVOz_j" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T18:51:41.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="jYCO3GMys-sUHGi6ffbE" version="14.4.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="981" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="XOxbf55b8lKNXetok6DY-22" value="Order 4-200 Samsung from Stradix" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
           <mxGeometry x="435" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-23" value="Order 5-300 Zebra from Zebra by 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
+        <mxCell id="XOxbf55b8lKNXetok6DY-23" value="Order 5A-300 Zebra from Zebra by 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
           <mxGeometry x="545" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-13" source="XOxbf55b8lKNXetok6DY-24" target="XOxbf55b8lKNXetok6DY-25" edge="1">
@@ -53,6 +53,9 @@
             <mxPoint x="940" y="95" as="sourcePoint" />
             <mxPoint x="990" y="45" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-36" value="Order 5B-300 Samsung by 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-13">
+          <mxGeometry x="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-15" value="Zebra Testing" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="-530" width="1021" height="120" as="geometry">
@@ -197,7 +200,7 @@
             <mxPoint x="820" y="-372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-28" value="Could Danny code to the new licencing model format?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XOxbf55b8lKNXetok6DY-16">
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-28" value="Could Danny code to the new licencing model format?" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-16">
           <mxGeometry x="104" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-34" value="All out blitz on Samsung, trucks assigned to" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XOxbf55b8lKNXetok6DY-16">
@@ -316,8 +319,8 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-22" value="Order 3 WIP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A7MQ0ffrwgBu7bjcszJp-7">
           <mxGeometry x="279" y="20" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="A7MQ0ffrwgBu7bjcszJp-7">
-          <mxGeometry x="505" y="10" width="40" height="40" as="geometry" />
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-30" value="No real projections on provisioning of Samsung&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="A7MQ0ffrwgBu7bjcszJp-7">
+          <mxGeometry x="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A7MQ0ffrwgBu7bjcszJp-15" target="XOxbf55b8lKNXetok6DY-33">
           <mxGeometry relative="1" as="geometry" />
