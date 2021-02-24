@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T17:49:03.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="ipuVCof46dhXE9FtsY6j" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T22:05:24.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="rVoF6tnCfwpSpTtGy2ut" version="14.4.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1673" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -163,7 +163,7 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-54" value="How many additional tablets may be pulled from shops?" style="rhombus;whiteSpace=wrap;html=1;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
           <mxGeometry x="830" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DuRdurXmBzNBN-OfUdLP-5" value="Order 5B: May need to sign a new licencing agreement with Samsung" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-5" value="Order 5B: May need to sign a new licencing agreement with Samsung?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
           <mxGeometry x="740" y="10" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-35" value="Explore RMA app inventory control with tablets" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
@@ -174,8 +174,8 @@
             <mxRectangle x="40" y="240" width="30" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-37" value="Order 5A; Finish Candadian ELD by 4/1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-36" vertex="1">
-          <mxGeometry x="491" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="XOxbf55b8lKNXetok6DY-37" value="Order 5A: Finish Canadian ELD by 4/1 *Subject to Change*" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-36" vertex="1">
+          <mxGeometry x="491" y="20" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-38" value="Order 5A: Make Hot Fix for Android 10 by 5/1 order 5 must deliver by 4/29" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-36" vertex="1">
           <mxGeometry x="601" y="10" width="100" height="100" as="geometry" />
@@ -186,8 +186,11 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-32" value="Critical path testing takes about a week if testing team or linehaul team as emergency backup" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-36" vertex="1">
           <mxGeometry x="230" y="10" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-33" value="Ops Sys &amp;amp; Linehaul IT team will research Coretex development conflicts" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-36" vertex="1">
-          <mxGeometry x="360" y="10" width="100" height="100" as="geometry" />
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-33" value="Ops Sys &amp;amp; Linehaul IT team will research Coretex development conflicts, Barry will meet and advise" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-36" vertex="1">
+          <mxGeometry x="350" y="5" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-9" value="When can we have a hot fix in with Coretex?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XOxbf55b8lKNXetok6DY-36">
+          <mxGeometry x="760" y="6.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-17" value="Cyber Security" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="-220" width="1050" height="120" as="geometry">
@@ -203,7 +206,7 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-17" source="A7MQ0ffrwgBu7bjcszJp-12" target="A7MQ0ffrwgBu7bjcszJp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-15" value="Presumably Zebra has a product similar to Knox?" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-17" vertex="1">
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-15" value="&amp;nbsp;Zebra has a product &#39;Stage Now and Airwatch to mimic Knox&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-17" vertex="1">
           <mxGeometry x="410" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-17" source="A7MQ0ffrwgBu7bjcszJp-2" target="A7MQ0ffrwgBu7bjcszJp-15" edge="1">
@@ -235,7 +238,7 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-37" value="&lt;span&gt;5B Code to Samsung&#39;s new licencing model format?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-16" vertex="1">
           <mxGeometry x="170" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DuRdurXmBzNBN-OfUdLP-1" value="Order 5B: Testing new licencing model for Samsung 2/24" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-16">
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-1" value="Order 5B: Testing new licencing model for Samsung 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-16">
           <mxGeometry x="270" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XOxbf55b8lKNXetok6DY-22" target="XOxbf55b8lKNXetok6DY-32" edge="1">
@@ -408,10 +411,16 @@
             <mxPoint x="690" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DuRdurXmBzNBN-OfUdLP-4" value="" style="endArrow=classic;html=1;exitX=0.437;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.384;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XOxbf55b8lKNXetok6DY-41" target="A7MQ0ffrwgBu7bjcszJp-54">
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-4" value="" style="endArrow=classic;html=1;exitX=0.437;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.384;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DuRdurXmBzNBN-OfUdLP-9" target="A7MQ0ffrwgBu7bjcszJp-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750.5900000000001" y="-79.86000000000013" as="sourcePoint" />
             <mxPoint x="950.7199999999998" y="-719.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-10" value="" style="endArrow=classic;html=1;exitX=0.437;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.384;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XOxbf55b8lKNXetok6DY-41" target="DuRdurXmBzNBN-OfUdLP-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750.5899999999999" y="-79.8599999999999" as="sourcePoint" />
+            <mxPoint x="940.7199999999998" y="-619.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
