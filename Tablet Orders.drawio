@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T17:25:44.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="BQalsc6jkvEvc0MAZjHP" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T17:41:36.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="5WaudRga6_zc5WY4r7Re" version="14.4.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1673" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -30,10 +30,10 @@
         <mxCell id="XOxbf55b8lKNXetok6DY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-13" source="XOxbf55b8lKNXetok6DY-21" target="XOxbf55b8lKNXetok6DY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-21" value="Order 3- 146? to FLGTLR-Samsung from Stradix" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
+        <mxCell id="XOxbf55b8lKNXetok6DY-21" value="Order 3- 146? to FLGTLR-Samsung from Stradix WIP 3/19" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
           <mxGeometry x="340" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-22" value="Order 4-200 Samsung from Stradix" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
+        <mxCell id="XOxbf55b8lKNXetok6DY-22" value="Order 4-200 Samsung from Stradix&amp;nbsp;&lt;br&gt;&amp;nbsp;WIP 4/1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
           <mxGeometry x="435" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-23" value="Order 5A-300 Zebra from Zebra by 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
@@ -51,7 +51,7 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-13" source="A7MQ0ffrwgBu7bjcszJp-36" target="XOxbf55b8lKNXetok6DY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-36" value="Order 5B-300 Samsung by 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-36" value="Order 5B-300 Samsung by Quote by 2/27" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-13" vertex="1">
           <mxGeometry x="740" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XOxbf55b8lKNXetok6DY-13" source="A7MQ0ffrwgBu7bjcszJp-45" target="A7MQ0ffrwgBu7bjcszJp-36" edge="1">
@@ -64,6 +64,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="705" y="-750" as="sourcePoint" />
             <mxPoint x="818.3199999999999" y="-765.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-6" value="" style="endArrow=classic;html=1;" edge="1" parent="XOxbf55b8lKNXetok6DY-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="120" as="sourcePoint" />
+            <mxPoint x="800" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-15" value="Zebra Testing" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
@@ -128,7 +134,7 @@
         <mxCell id="XOxbf55b8lKNXetok6DY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="XOxbf55b8lKNXetok6DY-14" source="XOxbf55b8lKNXetok6DY-32" target="XOxbf55b8lKNXetok6DY-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-32" value="Cannot purchase Samsungs as no licences are available" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
+        <mxCell id="XOxbf55b8lKNXetok6DY-32" value="Order 4: Cannot purchase Samsung as no licences are available" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
           <mxGeometry x="435" y="10" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-8" value="Execute Zebra S&amp;amp;S Contract (software &amp;amp;&amp;nbsp; Service 1)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
@@ -151,11 +157,17 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-41" value="&lt;span&gt;How many more Samsung licences to procure?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
           <mxGeometry x="326" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A7MQ0ffrwgBu7bjcszJp-35" value="Explore RMA app inventory control with tablets" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
-          <mxGeometry x="890" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.014;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XOxbf55b8lKNXetok6DY-14" source="A7MQ0ffrwgBu7bjcszJp-54" target="A7MQ0ffrwgBu7bjcszJp-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-54" value="How many additional tablets may be pulled from shops?" style="rhombus;whiteSpace=wrap;html=1;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
-          <mxGeometry x="740" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="830" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-5" value="Order 5B: May need to sign a new licencing agreement with Samsung" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-14">
+          <mxGeometry x="740" y="10" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A7MQ0ffrwgBu7bjcszJp-35" value="Explore RMA app inventory control with tablets" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XOxbf55b8lKNXetok6DY-14" vertex="1">
+          <mxGeometry x="950" y="-12" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-36" value="Coretex" style="swimlane;startSize=20;horizontal=0;rounded=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-460" width="1050" height="120" as="geometry">
@@ -223,6 +235,9 @@
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-37" value="&lt;span&gt;5B Code to Samsung&#39;s new licencing model format?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XOxbf55b8lKNXetok6DY-16" vertex="1">
           <mxGeometry x="170" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-1" value="Testing new licencing model for Samsung 2/24" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XOxbf55b8lKNXetok6DY-16">
+          <mxGeometry x="270" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="XOxbf55b8lKNXetok6DY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XOxbf55b8lKNXetok6DY-22" target="XOxbf55b8lKNXetok6DY-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -269,6 +284,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="-620" as="sourcePoint" />
             <mxPoint x="880" y="-670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="-640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A7MQ0ffrwgBu7bjcszJp-7" value="Provisioning" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
@@ -346,7 +364,7 @@
             <mxPoint x="1070" y="-765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XOxbf55b8lKNXetok6DY-81" value="" style="endArrow=classic;html=1;exitX=0.437;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.384;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XOxbf55b8lKNXetok6DY-41" target="XOxbf55b8lKNXetok6DY-24" edge="1">
+        <mxCell id="XOxbf55b8lKNXetok6DY-81" value="" style="endArrow=classic;html=1;exitX=0.437;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.384;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="A7MQ0ffrwgBu7bjcszJp-54" target="XOxbf55b8lKNXetok6DY-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="-200" as="sourcePoint" />
             <mxPoint x="900" y="-712" as="targetPoint" />
@@ -385,6 +403,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="-440" as="sourcePoint" />
             <mxPoint x="690" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DuRdurXmBzNBN-OfUdLP-4" value="" style="endArrow=classic;html=1;exitX=0.437;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.384;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XOxbf55b8lKNXetok6DY-41" target="A7MQ0ffrwgBu7bjcszJp-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750.5900000000001" y="-79.86000000000013" as="sourcePoint" />
+            <mxPoint x="950.7199999999998" y="-719.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
