@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T15:57:00.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="cmJ55lame3plOXgWeVO4" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T23:28:15.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="toZUhH8gTErgx3i0ZNOB" version="14.4.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1402" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Lytx Org Chart for Verification" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="61" y="80" width="710" height="580" as="geometry" />
+          <mxGeometry x="40" y="40" width="710" height="630" as="geometry" />
         </mxCell>
         <UserObject label="Charlie Brown&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Senior Field Service Engineer--Huntsville, AL&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Charles Brown &amp;lt;cbrown@lytx.com&amp;gt;&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
@@ -83,6 +83,11 @@
             <mxPoint x="360" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="Courtney Lambrow&lt;br&gt;&lt;i&gt;&lt;font color=&quot;#808080&quot;&gt;Senior Channel Sucess Manager--Works with Freightliner--(858)380-3015--location unknown&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;&amp;lt;clambrow@lytx.com&amp;gt;&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="a8-__GU96qs3UvvVJ_sT-23">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="15" y="530" width="250" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
