@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T23:28:07.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="WQ-g5x3xrK02OqT8na8g" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T01:03:11.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eQEsXRzWlNEFh3lFISDC" version="14.4.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1402" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -598,13 +598,13 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-183" value="Zebra is working on a&amp;nbsp; 20,000 forklift ET56s for Walmart" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-66" vertex="1">
           <mxGeometry x="410" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-4" value="" style="endArrow=classic;html=1;entryX=-0.025;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QLuJOisWf_Dk4FO7MzMP-66" target="QLuJOisWf_Dk4FO7MzMP-183">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-4" value="" style="endArrow=classic;html=1;entryX=-0.025;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" parent="QLuJOisWf_Dk4FO7MzMP-66" target="QLuJOisWf_Dk4FO7MzMP-183" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="70" as="sourcePoint" />
             <mxPoint x="380" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-9" value="May not be able to order Samsung Tab 2s if we do not decide before?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-66">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-9" value="May not be able to order Samsung Tab 2s if we do not decide before?" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-66" vertex="1">
           <mxGeometry x="730" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-119" value="Coretex" style="swimlane;startSize=20;horizontal=0;rounded=0;swimlaneLine=1;" parent="1" vertex="1">
@@ -705,7 +705,7 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-92" value="Order 7B-213 Samsung Tablets" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
           <mxGeometry x="720" y="17" width="83" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QLuJOisWf_Dk4FO7MzMP-79" source="QLuJOisWf_Dk4FO7MzMP-96" target="QLuJOisWf_Dk4FO7MzMP-91">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QLuJOisWf_Dk4FO7MzMP-79" source="QLuJOisWf_Dk4FO7MzMP-96" target="QLuJOisWf_Dk4FO7MzMP-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-96" value="&lt;span&gt;How many more Samsung devices to procure?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
@@ -726,11 +726,11 @@
             <mxPoint x="910" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-8" value="7A Zebra must order 213 Gamber Johnson cradles by 3/18" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-79">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-8" value="7A Zebra must order 213 Gamber Johnson cradles by 3/18" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
           <mxGeometry x="610" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-10" value="Get latest Order schedule to Tim to verify last order is 213" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-79">
-          <mxGeometry x="950" y="17" width="80" height="80" as="geometry" />
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-10" value="Get latest Order schedule to Tim to verify last order is 213 (updated order 2 to 76 &amp;amp; verified)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
+          <mxGeometry x="950" y="17" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QLuJOisWf_Dk4FO7MzMP-81" target="QLuJOisWf_Dk4FO7MzMP-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -768,13 +768,13 @@
             <mxPoint x="540" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QLuJOisWf_Dk4FO7MzMP-183" target="QLuJOisWf_Dk4FO7MzMP-111">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QLuJOisWf_Dk4FO7MzMP-183" target="QLuJOisWf_Dk4FO7MzMP-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="370" as="sourcePoint" />
             <mxPoint x="740" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QLuJOisWf_Dk4FO7MzMP-111" target="QLuJOisWf_Dk4FO7MzMP-63">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QLuJOisWf_Dk4FO7MzMP-111" target="QLuJOisWf_Dk4FO7MzMP-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="170" as="sourcePoint" />
             <mxPoint x="744" y="310" as="targetPoint" />
