@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T01:03:11.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eQEsXRzWlNEFh3lFISDC" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T16:14:13.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="02G0CZu3qRZS9qkY2NzN" version="14.4.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1038" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -577,11 +577,14 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-62" value="Order 6A: Coretex Must Create Hot Fix to APK" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="QLuJOisWf_Dk4FO7MzMP-51" vertex="1">
           <mxGeometry x="220" y="14" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QLuJOisWf_Dk4FO7MzMP-63" value="Order 6A;Test Zebra CoretexAPK Hot Fix for Android 10" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="QLuJOisWf_Dk4FO7MzMP-51" vertex="1">
-          <mxGeometry x="625" y="14" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-65" value="Current APK did seem to work through a high level test on one Zebra Device. Cannot test two." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-51" vertex="1">
           <mxGeometry x="23" y="14" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-12" value="Extended order 7 cradle PO by 222 units to make up for the 8 missing unit minus i unit for square orders" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-51">
+          <mxGeometry x="935" y="12" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QLuJOisWf_Dk4FO7MzMP-63" value="Order 6A;Test Zebra CoretexAPK Hot Fix for Android 10" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="QLuJOisWf_Dk4FO7MzMP-51" vertex="1">
+          <mxGeometry x="625" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-66" value="Contract" style="swimlane;startSize=20;horizontal=0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="180" width="1050" height="120" as="geometry" />
@@ -598,14 +601,17 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-183" value="Zebra is working on a&amp;nbsp; 20,000 forklift ET56s for Walmart" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-66" vertex="1">
           <mxGeometry x="410" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-4" value="" style="endArrow=classic;html=1;entryX=-0.025;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" parent="QLuJOisWf_Dk4FO7MzMP-66" target="QLuJOisWf_Dk4FO7MzMP-183" edge="1">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-4" value="" style="endArrow=classic;html=1;entryX=-0.025;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QLuJOisWf_Dk4FO7MzMP-66" target="QLuJOisWf_Dk4FO7MzMP-183">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="70" as="sourcePoint" />
             <mxPoint x="380" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-9" value="May not be able to order Samsung Tab 2s if we do not decide before?" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-66" vertex="1">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-9" value="May not be able to order Samsung Tab 2s if we do not decide before?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-66">
           <mxGeometry x="730" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-11" value="When receiving 309 cradles from SAP, only 301 were useable" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-66">
+          <mxGeometry x="952" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-119" value="Coretex" style="swimlane;startSize=20;horizontal=0;rounded=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="420" width="1050" height="120" as="geometry">
@@ -661,6 +667,12 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-136" value="Airwatch reads IMEI and S\N from Andriod 10 &amp;amp; manages tablets" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QLuJOisWf_Dk4FO7MzMP-135" vertex="1">
           <mxGeometry x="619" y="15" width="85" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QLuJOisWf_Dk4FO7MzMP-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="-126" as="sourcePoint" />
+            <mxPoint x="975" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-143" value="Provisioning" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="780" width="1050" height="130" as="geometry" />
         </mxCell>
@@ -705,7 +717,7 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-92" value="Order 7B-213 Samsung Tablets" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
           <mxGeometry x="720" y="17" width="83" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QLuJOisWf_Dk4FO7MzMP-79" source="QLuJOisWf_Dk4FO7MzMP-96" target="QLuJOisWf_Dk4FO7MzMP-91" edge="1">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QLuJOisWf_Dk4FO7MzMP-79" source="QLuJOisWf_Dk4FO7MzMP-96" target="QLuJOisWf_Dk4FO7MzMP-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-96" value="&lt;span&gt;How many more Samsung devices to procure?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
@@ -714,8 +726,11 @@
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-111" value="Order 7A-213 Zebra from Zebra" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
           <mxGeometry x="490" y="18" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QLuJOisWf_Dk4FO7MzMP-79" source="QLuJOisWf_Dk4FO7MzMP-142" target="Nb-meqjad2NrSI1MqCv1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-142" value="0/213 cradles available for Order 7B if necessary order by 3/18" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
-          <mxGeometry x="842" y="18" width="80" height="80" as="geometry" />
+          <mxGeometry x="842" y="18" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-141" value="291 cradles ordered for Order 6B on 3/3 confirmed for delivery" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
           <mxGeometry x="352" y="10.5" width="95" height="95" as="geometry" />
@@ -726,11 +741,11 @@
             <mxPoint x="910" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-8" value="7A Zebra must order 213 Gamber Johnson cradles by 3/18" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-8" value="7A Zebra must order 213 Gamber Johnson cradles by 3/18" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-79">
           <mxGeometry x="610" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-10" value="Get latest Order schedule to Tim to verify last order is 213 (updated order 2 to 76 &amp;amp; verified)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="QLuJOisWf_Dk4FO7MzMP-79" vertex="1">
-          <mxGeometry x="950" y="17" width="93" height="93" as="geometry" />
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-10" value="Get latest Order schedule to Tim to verify last order is 213, verified" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QLuJOisWf_Dk4FO7MzMP-79">
+          <mxGeometry x="950" y="15" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="QLuJOisWf_Dk4FO7MzMP-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QLuJOisWf_Dk4FO7MzMP-81" target="QLuJOisWf_Dk4FO7MzMP-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -768,16 +783,25 @@
             <mxPoint x="540" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QLuJOisWf_Dk4FO7MzMP-183" target="QLuJOisWf_Dk4FO7MzMP-111" edge="1">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QLuJOisWf_Dk4FO7MzMP-183" target="QLuJOisWf_Dk4FO7MzMP-111">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="370" as="sourcePoint" />
             <mxPoint x="740" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nb-meqjad2NrSI1MqCv1-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QLuJOisWf_Dk4FO7MzMP-111" target="QLuJOisWf_Dk4FO7MzMP-63" edge="1">
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QLuJOisWf_Dk4FO7MzMP-111" target="QLuJOisWf_Dk4FO7MzMP-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="170" as="sourcePoint" />
             <mxPoint x="744" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nb-meqjad2NrSI1MqCv1-10" target="Nb-meqjad2NrSI1MqCv1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb-meqjad2NrSI1MqCv1-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nb-meqjad2NrSI1MqCv1-11" target="Nb-meqjad2NrSI1MqCv1-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="70" as="sourcePoint" />
+            <mxPoint x="730" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
