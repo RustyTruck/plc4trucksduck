@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T12:54:59.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="TTd2EZArI-vNHSx_5k-n" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T13:36:53.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="NkTXFygrns3zxHjVwnQc" version="14.7.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YpiswbPUXittL1wo25aG-7" value="Global" style="swimlane;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="82" y="80" width="990" height="620" as="geometry" />
+          <mxGeometry x="82" y="80" width="990" height="660" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-3" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" width="966" height="120" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="744" y="20" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-18" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
-          <mxGeometry x="24" y="440" width="966" height="180" as="geometry" />
+          <mxGeometry x="24" y="440" width="966" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-9" value="Intuitive measurments and analytics across all products on a common platform" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
           <mxGeometry x="69" y="20" width="110" height="110" as="geometry" />
@@ -76,17 +76,19 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-35" value="One source of the truth" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
           <mxGeometry x="224" y="35" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-164" value="Report List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
-          <mxGeometry x="333" y="20" width="167" height="120" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-164" value="Replace Unsupported Antiquated Analytics " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-18">
+          <mxGeometry x="364" y="70" width="250" height="26" as="geometry">
+            <mxRectangle x="359.5" y="10" width="247" height="158" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-165" value="A/S 400 Reports circa 1985&#xa;BI--Support Ended 2008&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
-          <mxGeometry y="26" width="167" height="26" as="geometry" />
+          <mxGeometry y="26" width="250" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-166" value="Focus Carrier Over " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
-          <mxGeometry y="52" width="167" height="26" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-166" value="Focus carry over from Corda&#xa;Focus&#xa;Billing " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
+          <mxGeometry y="60" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-167" value="Focus Engineered&#xa;Email Reports&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
-          <mxGeometry y="78" width="167" height="42" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-167" value="Focus Engineered&#xa;Email Reports&#xa;Ad-Hoc SQL\Excel &#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
+          <mxGeometry y="110" width="250" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-168" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YpiswbPUXittL1wo25aG-18" source="aJCjJeXkYi-TB71Nvnjo-35" target="aJCjJeXkYi-TB71Nvnjo-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,10 +115,10 @@
           <mxGeometry x="544" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-24" value="Platform" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="82" y="880" width="990" height="620" as="geometry" />
+          <mxGeometry x="83" y="880" width="990" height="620" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-25" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-24" vertex="1">
-          <mxGeometry x="24" width="966" height="120" as="geometry" />
+          <mxGeometry x="24" width="966" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="YpiswbPUXittL1wo25aG-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -134,6 +136,26 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-38" value="Managing to goal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-25">
           <mxGeometry x="363" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YpiswbPUXittL1wo25aG-25" source="aJCjJeXkYi-TB71Nvnjo-50" target="aJCjJeXkYi-TB71Nvnjo-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-50" value="Accurate Employee Hour Tracking" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-25">
+          <mxGeometry x="479" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-179" value="Clock Issues" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-25">
+          <mxGeometry x="604" y="8" width="100" height="26" as="geometry">
+            <mxRectangle x="604" y="8" width="266" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-180" value="Double Punch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-179">
+          <mxGeometry y="26" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-181" value="Delay (1-40 minutes)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-179">
+          <mxGeometry y="52" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-182" value="Identify status (Break, Lunch, Home, Job Class)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-179">
+          <mxGeometry y="78" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-31" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-24" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
@@ -153,7 +175,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-65" value="Outbound Planning interface&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-31">
           <mxGeometry x="264" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-81" value="Pick-up predictor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-31">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-81" value="Pick-up projection" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-31">
           <mxGeometry x="584" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-32" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-24" vertex="1">
@@ -162,65 +184,58 @@
         <mxCell id="YpiswbPUXittL1wo25aG-14" value="Exectution" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-32" vertex="1">
           <mxGeometry y="-200" width="966" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-39" value="DYMNs Assignment" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-39" value="DYMNs Integration&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
           <mxGeometry x="44" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-40" value="DYMNs Communication&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="144" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-41" value="DYMNs Functionality" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="254" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-42" value="Eliminate supervisor overrides&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="374" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-43" value="Eliminate dock overrides" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="479" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-49" value="Assign Drag &amp;amp; Drop" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="594" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-50" value="Real Time Clock (Today we have 1-40 minutes delay)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="704" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="314" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-51" value="Eliminate Double Punch" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="814" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="584" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-55" value="Pre-assigning work" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-55" value="Pre-assigning work" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
           <mxGeometry x="44" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-56" value="Manage gap time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="144" y="110" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-56" value="Manage gap time" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
+          <mxGeometry x="149" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-59" value="Identify Break v.Home v. PND/Yard" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="844" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="584" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-61" value="Bar code for manifest loading" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="284" y="81" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-173" value="DYMNs Vision" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-14">
+          <mxGeometry x="149" y="47" width="110" height="26" as="geometry">
+            <mxRectangle x="149" y="47" width="161" height="146" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-63" value="Upgrade dock activity screen into workforce function" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="384" y="110" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-174" value="Communication&#xa;Trailer Manifesting Process&#xa;Hazmat Process " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-173">
+          <mxGeometry y="26" width="110" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-100" value="Close trailer integration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="479" y="110" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-175" value="Assignment&#xa;Yard Application (Moves)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-173">
+          <mxGeometry y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-54" value="Assignment monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-176" value="Overrides Philosophy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-173">
+          <mxGeometry y="120" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-178" value="Integrate Workforce PND Planner" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
+          <mxGeometry x="314" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-54" value="Assignment monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
           <mxGeometry x="44" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-53" value="Manage gap time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-53" value="Manage gap time" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
           <mxGeometry x="144" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-67" value="Schedule Monitoring&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-67" value="Schedule Monitoring&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
           <mxGeometry x="254" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-68" value="Workforce monitoring (Goal versus adjustment)&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-68" value="Workforce monitoring (Goal versus adjustment)&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
           <mxGeometry x="364" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-69" value="Pre-assignent vs. reacting" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
-          <mxGeometry x="479" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="478" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-70" value="Time assigned versus working a trailer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
-          <mxGeometry x="74" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="693" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-71" value="Trend analysis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
           <mxGeometry x="584" y="20" width="80" height="80" as="geometry" />
@@ -246,7 +261,7 @@
         <mxCell id="YpiswbPUXittL1wo25aG-41" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-34" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-80" value="Pick-up predictor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-41">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-80" value="Pick-up projection" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-41">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-82" value="Planned" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-41">
@@ -572,6 +587,11 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-5" value="Exectution" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-4">
           <mxGeometry y="-200" width="966" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aJCjJeXkYi-TB71Nvnjo-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1180.2" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
