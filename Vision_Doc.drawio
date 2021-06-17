@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T20:49:15.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QCXBv2yoKnZOnWnOwOoE" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T12:54:59.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="TTd2EZArI-vNHSx_5k-n" version="14.7.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,88 +10,106 @@
         <mxCell id="YpiswbPUXittL1wo25aG-3" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" width="966" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-6" value="Develop products that include all job functions (One stop shop)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-6" value="Develop products that include all job functions (One stop shop)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="24" y="20" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-7" value="Modular Design" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-7" value="Modular Design" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="224" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-8" value="Coordintated schedule planning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-8" value="Coordintated schedule planning" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="314" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-10" value="Every product has a defined goal&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-10" value="Every product has a defined goal&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="414" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-11" value="Focus Group to Start Product Dev" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-11" value="Focus Group to Start Product Dev" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="514" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-12" value="Continuous end user review" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-12" value="Continuous end user review" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="704" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-13" value="Defined needs analysis toll gates" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-13" value="Defined needs analysis toll gates" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="794" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-21" value="Listen &amp;amp; write it down, and apply feedback" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-21" value="Listen &amp;amp; write it down, and apply feedback" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="614" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-22" value="Formal standardized requirements gathering" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
-          <mxGeometry x="124" y="25" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-22" value="Formal standardized requirements gathering Improved intake process" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="120" y="21" width="89" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-31" value="Top down support" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-31" value="Top down support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="884" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-10" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-14" value="Real time hours and movement statistics" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-14" value="Real time hours and movement statistics" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="244" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-16" value="Planning products for all OD workforce" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-16" value="Planning products for all OD workforce" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="344" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-18" value="Freight arrival patterns studied in planning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-18" value="Freight arrival patterns studied in planning" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="544" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-20" value="Create goal setting application in every product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-20" value="Create goal setting application in every product" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="443" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-23" value="Develop a proof of concept" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-23" value="Develop a proof of concept" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-24" value="Consider training in development" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-24" value="Consider training in development" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="644" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-26" value="Test proof of concept and prototyes in field enviornments" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-26" value="Test proof of concept and prototyes in field enviornments" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="134" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-27" value="Understand the difference between defensive and progressive" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
-          <mxGeometry x="744" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-27" value="Understand the difference between defensive and progressive end users (nuanced)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+          <mxGeometry x="744" y="20" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-18" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" y="440" width="966" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-9" value="Intuitive measurments and analytics across all products on a common platform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-9" value="Intuitive measurments and analytics across all products on a common platform" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
           <mxGeometry x="69" y="20" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-35" value="One source of the truth" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-35" value="One source of the truth" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
           <mxGeometry x="224" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-164" value="Report List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
+          <mxGeometry x="333" y="20" width="167" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-165" value="A/S 400 Reports circa 1985&#xa;BI--Support Ended 2008&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
+          <mxGeometry y="26" width="167" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-166" value="Focus Carrier Over " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
+          <mxGeometry y="52" width="167" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-167" value="Focus Engineered&#xa;Email Reports&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-164">
+          <mxGeometry y="78" width="167" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-168" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YpiswbPUXittL1wo25aG-18" source="aJCjJeXkYi-TB71Nvnjo-35" target="aJCjJeXkYi-TB71Nvnjo-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="80" as="sourcePoint" />
+            <mxPoint x="294" y="30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-33" value="Exectution" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" y="240" width="966" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-19" value="Give real time managment ability" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-19" value="Give real time managment ability" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
           <mxGeometry x="69" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-17" value="See goal attainment in real time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-17" value="See goal attainment in real time" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
           <mxGeometry x="184" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-28" value="Intuitive" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-28" value="Intuitive" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
           <mxGeometry x="304" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-29" value="Monitor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-29" value="Monitor" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
           <mxGeometry x="424" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
           <mxGeometry x="544" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-24" value="Platform" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
