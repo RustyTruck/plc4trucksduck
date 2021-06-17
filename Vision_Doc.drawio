@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T14:09:37.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="HGB6eLRES55yfwyMHa_i" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T14:27:12.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="83lwDg8y-ZAQ5598K0yN" version="14.7.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1738" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YpiswbPUXittL1wo25aG-7" value="Global" style="swimlane;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="82" y="80" width="990" height="660" as="geometry" />
+          <mxGeometry x="85" y="80" width="990" height="660" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-3" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" width="966" height="120" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-13" value="Defined needs analysis toll gates" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="794" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-21" value="Listen &amp;amp; write it down, and apply feedback" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-21" value="Proctor, listen, record, and apply feedback" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="614" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-22" value="Formal standardized requirements gathering Improved intake process" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
@@ -41,7 +41,7 @@
           <mxGeometry x="884" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-10" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
-          <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
+          <mxGeometry x="20" y="120" width="970" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-14" value="Real time hours and movement statistics" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="244" y="20" width="80" height="80" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-27" value="Understand the difference between defensive and progressive end users (nuanced)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="744" y="20" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
+          <mxGeometry x="504" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-18" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
           <mxGeometry x="24" y="440" width="966" height="220" as="geometry" />
@@ -110,9 +113,6 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-29" value="Monitor" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
           <mxGeometry x="424" y="60" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
-          <mxGeometry x="544" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-24" value="Platform" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="83" y="880" width="990" height="620" as="geometry" />
@@ -399,31 +399,28 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-127" value="Maintenance integration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="44" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-128" value="Stop Pink &amp;amp; FIFO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-128" value="Due date compliance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="149" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-129" value="&amp;nbsp;Exercise schedule discipline" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-129" value="&amp;nbsp;Schedule discipline monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="254" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-130" value="Use prioritization" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-130" value="Use of prioritization" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="354" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-131" value="Pre-assign drivers vs. react" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-131" value="Pre-assignment monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="454" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-138" value="Workday integration for driver schedule" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
-          <mxGeometry x="44" y="110" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-140" value="Breakdown and delay management" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
-          <mxGeometry x="144" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="546" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-145" value="Eliminate weekly system down time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
-          <mxGeometry x="254" y="110" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-189" value="Slack time management" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+          <mxGeometry x="646" y="15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-119" value="Schedule compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-122" value="Bullwhip and out of route monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-122" value="Route compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
           <mxGeometry x="124" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-132" value="Load monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
@@ -452,6 +449,9 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-144" value="Dispatcher evaluation metrics" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
           <mxGeometry x="324" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-225" value="Linehaul System Health" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
+          <mxGeometry x="26" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-58" value="Yard" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="82" y="3360" width="990" height="640" as="geometry" />
@@ -568,6 +568,9 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-184" value="Workday integration for driver schedule" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1030" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-145" value="Eliminate weekly system down time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="840" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
