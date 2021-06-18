@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T20:38:01.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Xwlee_bSUW43DAj3eT-s" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T11:50:36.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wExT2shUVdSqoJbNZPEf" version="14.7.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YpiswbPUXittL1wo25aG-7" value="Global" style="swimlane;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="85" y="80" width="990" height="660" as="geometry" />
+          <mxGeometry x="80" y="80" width="995" height="720" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-3" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
-          <mxGeometry x="24" width="966" height="120" as="geometry" />
+          <mxGeometry x="23" width="970" height="270" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-6" value="Develop products that include all job functions (One stop shop)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="24" y="20" width="90" height="90" as="geometry" />
@@ -40,8 +40,43 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-31" value="Top down support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
           <mxGeometry x="884" y="25" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-227" value="Most responsive network communication available&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="34" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-184" value="Workday integration for&amp;nbsp; scheduler applications" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="138" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-236" value="Leverage Android applications when possible" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="247" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-237" value="Eliminate weekly system down time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="357" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-246" value="Accurate Employee Hour Tracking" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="467" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-247" value="Clock Issues" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="592" y="148" width="100" height="26" as="geometry">
+            <mxRectangle x="604" y="8" width="266" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-248" value="Double Punch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-247">
+          <mxGeometry y="26" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-249" value="Delay (1-40 minutes)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-247">
+          <mxGeometry y="52" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-250" value="Identify status (Break, Lunch, Home, Job Class)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-247">
+          <mxGeometry y="78" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YpiswbPUXittL1wo25aG-3" source="aJCjJeXkYi-TB71Nvnjo-246" target="aJCjJeXkYi-TB71Nvnjo-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-251" value="Real time equipment location" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+          <mxGeometry x="720" y="156" width="84" height="84" as="geometry" />
+        </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-10" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
-          <mxGeometry x="24" y="120" width="970" height="120" as="geometry" />
+          <mxGeometry x="23" y="270" width="970" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-14" value="Real time hours and movement statistics" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="244" y="20" width="80" height="80" as="geometry" />
@@ -67,11 +102,8 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-27" value="Understand the difference between defensive and progressive end users (nuanced)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
           <mxGeometry x="744" y="20" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-10">
-          <mxGeometry x="504" y="100" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-18" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
-          <mxGeometry x="24" y="440" width="966" height="220" as="geometry" />
+          <mxGeometry x="23" y="500" width="966" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-9" value="Intuitive measurments and analytics across all products on a common platform" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-18">
           <mxGeometry x="69" y="20" width="110" height="110" as="geometry" />
@@ -100,19 +132,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-33" value="Exectution" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
-          <mxGeometry x="24" y="240" width="966" height="200" as="geometry" />
+          <mxGeometry x="23" y="390" width="970" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-19" value="Give real time managment ability" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
-          <mxGeometry x="69" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="36" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-17" value="See goal attainment in real time" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
-          <mxGeometry x="184" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="146" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-28" value="Intuitive" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
-          <mxGeometry x="304" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="257" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-29" value="Monitor" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
-          <mxGeometry x="424" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="366" y="14" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+          <mxGeometry x="481" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-24" value="Platform" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="83" y="880" width="990" height="620" as="geometry" />
@@ -136,26 +171,6 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-38" value="Managing to goal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-25">
           <mxGeometry x="363" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YpiswbPUXittL1wo25aG-25" source="aJCjJeXkYi-TB71Nvnjo-50" target="aJCjJeXkYi-TB71Nvnjo-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-50" value="Accurate Employee Hour Tracking" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-25">
-          <mxGeometry x="479" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-179" value="Clock Issues" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-25">
-          <mxGeometry x="604" y="8" width="100" height="26" as="geometry">
-            <mxRectangle x="604" y="8" width="266" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-180" value="Double Punch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-179">
-          <mxGeometry y="26" width="100" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-181" value="Delay (1-40 minutes)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-179">
-          <mxGeometry y="52" width="100" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-182" value="Identify status (Break, Lunch, Home, Job Class)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-179">
-          <mxGeometry y="78" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-31" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-24" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
@@ -194,10 +209,10 @@
           <mxGeometry x="44" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-56" value="Manage gap time" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="149" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="164" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-59" value="Identify Break v.Home v. PND/Yard" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-14">
-          <mxGeometry x="584" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="438" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-173" value="DYMNs Vision" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-14">
           <mxGeometry x="149" y="47" width="110" height="26" as="geometry">
@@ -237,8 +252,8 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-71" value="Trend analysis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
           <mxGeometry x="584" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-226" value="Real time fork location" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
-          <mxGeometry x="44" y="110" width="60" height="60" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-226" value="Real time forklift location" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-32">
+          <mxGeometry x="813" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-34" value="PND" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="82" y="1720" width="990" height="620" as="geometry" />
@@ -301,43 +316,43 @@
           <mxGeometry x="144" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-101" value="Map based driver monitoring with real time history" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-43">
-          <mxGeometry x="248" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="255" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-102" value="Customer geo fence integration&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-43">
-          <mxGeometry x="348" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="365" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-104" value="Ability to handle PND to Linehaul" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-43">
-          <mxGeometry x="443" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="475" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-85" value="Assignment monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="44" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="44" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-86" value="Manage gap time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="144" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="144" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-87" value="Schedule Monitoring&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="244" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="244" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-88" value="Workforce monitoring (Goal versus adjustment)&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="348" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="348" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-89" value="Pre-assignment compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="448" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="448" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-90" value="Trend analysis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="548" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="555" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-103" value="Evaluation of measurement accuracy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="44" y="98" width="80" height="80" as="geometry" />
+          <mxGeometry x="665" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-105" value="Dispatcher evaluation metrics" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-42">
-          <mxGeometry x="144" y="98" width="80" height="80" as="geometry" />
+          <mxGeometry x="775" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-53" value="Linehaul" style="swimlane;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="37" y="2561" width="990" height="640" as="geometry" />
+          <mxGeometry x="79.5" y="2561" width="997" height="719" as="geometry" />
         </mxCell>
-        <mxCell id="YpiswbPUXittL1wo25aG-54" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
-          <mxGeometry x="24" width="966" height="120" as="geometry" />
+        <mxCell id="YpiswbPUXittL1wo25aG-54" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
+          <mxGeometry x="24" width="969" height="214" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-106" value="Activity Screen Product" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
           <mxGeometry x="144" y="20" width="80" height="80" as="geometry" />
@@ -345,59 +360,99 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-107" value="Trailer Prioritization Application" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
           <mxGeometry x="244" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-108" value="Network Planning Product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-108" value="Network Planning Product" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
           <mxGeometry x="44" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-109" value="Load plan application" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
-          <mxGeometry x="429" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-110" value="Re-Imagine Dispatch" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
           <mxGeometry x="559" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-111" value="Re-imagine schedule planning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
-          <mxGeometry x="339" y="9" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-113" value="Expedited integration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
-          <mxGeometry x="764" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="668" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-114" value="Volume Pricing Models vs. Manual Decision" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
-          <mxGeometry x="874" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-114" value="Volume Pricing Decision Model&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
+          <mxGeometry x="778" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YpiswbPUXittL1wo25aG-55" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
-          <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-252" value="TPA Decision Support" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-54">
+          <mxGeometry x="378" y="20" width="150" height="26" as="geometry">
+            <mxRectangle x="378" y="20" width="140" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-253" value="Re-imagine load planning" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-252">
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-254" value="Re-imaging schedule planning&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-252">
+          <mxGeometry y="52" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-255" value="Load plan application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-252">
+          <mxGeometry y="78" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-256" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="YpiswbPUXittL1wo25aG-54" source="aJCjJeXkYi-TB71Nvnjo-107" target="aJCjJeXkYi-TB71Nvnjo-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328" y="59" as="sourcePoint" />
+            <mxPoint x="328" y="49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpiswbPUXittL1wo25aG-55" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
+          <mxGeometry x="24" y="214" width="963" height="196" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-66" value="Outbond Planning Product" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
           <mxGeometry x="44" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-115" value="Common Freight Path Data (includes weather, alternate, traffic, pricing, etc.) List Box" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="140" y="6" width="94" height="94" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-115" value="Common freight path application (POC Built)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
+          <mxGeometry x="150" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-116" value="Alternate routing that integrates with due date loading" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="206" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="397" y="109" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-117" value="Re-imagine schedule assignment" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="354" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-117" value="Re-imagine schedule assignment" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
+          <mxGeometry x="397" y="13" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-120" value="Overflow planning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="466" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="507" y="12" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-121" value="Bullwhip and out of route management" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="246" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="44" y="109" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-123" value="Equipment utilization &amp;amp; rotation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="580" y="19" width="81" height="81" as="geometry" />
+          <mxGeometry x="617" y="12" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-125" value="Real time equipment status with ELD" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="696" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="727" y="13" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-112" value="Re-imagine load planning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
-          <mxGeometry x="339" y="-50" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-258" value="Common Path Arch" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-55">
+          <mxGeometry x="248" y="25" width="132" height="26" as="geometry">
+            <mxRectangle x="248" y="47" width="140" height="174" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-259" value="Most likely" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry y="26" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-260" value="Alternate path/construction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry y="52" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-261" value="Weather path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry y="78" width="132" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-267" value="Hazmat path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry y="100" width="132" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-266" value="Traffic path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry y="122" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-265" value="Pricing&#39;s path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry y="148" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-268" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YpiswbPUXittL1wo25aG-55" source="aJCjJeXkYi-TB71Nvnjo-115" target="aJCjJeXkYi-TB71Nvnjo-258">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226.5" y="195" as="sourcePoint" />
+            <mxPoint x="196.5" y="35" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-56" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
-          <mxGeometry x="24" y="440" width="966" height="200" as="geometry" />
+          <mxGeometry x="24" y="519" width="966" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YpiswbPUXittL1wo25aG-57" value="Exectution" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
-          <mxGeometry y="-200" width="966" height="200" as="geometry" />
+        <mxCell id="YpiswbPUXittL1wo25aG-57" value="Exectution" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
+          <mxGeometry y="-110" width="966" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-127" value="Maintenance integration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="44" y="15" width="80" height="80" as="geometry" />
@@ -420,41 +475,44 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-189" value="Slack time management" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
           <mxGeometry x="646" y="15" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-269" value="Toll integration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+          <mxGeometry x="753" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-119" value="Schedule compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="34" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-122" value="Route compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
           <mxGeometry x="124" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-132" value="Load monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="224" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="217" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-133" value="Out route freight monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="324" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="316" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-134" value="Runtime compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="419" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="413" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-135" value="Route compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="514" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="509" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-136" value="Hourly vs. mileage" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="614" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-136" value="Hourly vs. mileage monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
+          <mxGeometry x="602" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-137" value="Drop &amp;amp; hook compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="34" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="124" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-142" value="Relay monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="134" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="217" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-143" value="Meet Point Monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="229" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="318" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-144" value="Dispatcher evaluation metrics" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="324" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="413" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-225" value="Linehaul System Health" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
-          <mxGeometry x="26" y="10" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-225" value="Linehaul System Health Product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-56">
+          <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-58" value="Yard" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="82" y="3360" width="990" height="640" as="geometry" />
@@ -469,13 +527,13 @@
           <mxGeometry x="234" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-148" value="Equipment location system (time of flight, UWB)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-59">
-          <mxGeometry x="354" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="344" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-232" value="Workforce Yard Management Product&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-59">
           <mxGeometry x="44" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-234" value="KingPin application" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-59">
-          <mxGeometry x="467" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-234" value="KingPin application" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-59">
+          <mxGeometry x="464" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-60" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-58" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
@@ -501,20 +559,28 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-156" value="Assign work through workforce planning&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-62">
           <mxGeometry x="314" y="25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-228" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="YpiswbPUXittL1wo25aG-62">
-          <mxGeometry x="144" y="50" width="140" height="104" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-228" value="Yard F(n)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="YpiswbPUXittL1wo25aG-62">
+          <mxGeometry x="154" y="20" width="136" height="26" as="geometry">
+            <mxRectangle x="154" y="20" width="140" height="104" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-229" value="Single Assignment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-228">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+          <mxGeometry y="26" width="136" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-230" value="Reject Assignment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-228">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+          <mxGeometry y="52" width="136" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-231" value="Minimize distance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-228">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+          <mxGeometry y="78" width="136" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-235" value="Tablet Map integration for spot location&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-62">
           <mxGeometry x="421" y="25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-270" value="" style="endArrow=classic;html=1;entryX=0.004;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YpiswbPUXittL1wo25aG-62" source="aJCjJeXkYi-TB71Nvnjo-152" target="aJCjJeXkYi-TB71Nvnjo-228">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194" y="120" as="sourcePoint" />
+            <mxPoint x="244" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-157" value="Measure activity per hour" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YpiswbPUXittL1wo25aG-61">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
@@ -583,15 +649,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="1180.2" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-184" value="Workday integration for driver schedule" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="50" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-145" value="Eliminate weekly system down time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="840" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-227" value="Most responsive network communication available&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="318" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
