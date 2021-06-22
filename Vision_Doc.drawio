@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T17:42:57.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="eC39XE82Owx1Dfx8HckJ" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T17:53:30.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yjOpmT53yBEPTB_AKKC3" version="14.7.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="661" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -627,7 +627,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-280" value="Real Estate Reporting Function" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-69">
           <mxGeometry x="155" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-282" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-69">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-282" value="Real Estate communication plan supported by technology" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-69">
           <mxGeometry x="263" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-70" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-68" vertex="1">
@@ -636,26 +636,44 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-281" value="Monthly Meeting" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
           <mxGeometry x="49" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-283" value="Yard pressure model" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
-          <mxGeometry x="163" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-284" value="PND simulation" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
-          <mxGeometry x="272" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="154" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-285" value="New service center zip code designer" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
-          <mxGeometry x="386" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-286" value="Automated town hall meeting report" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
-          <mxGeometry x="501" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="274" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-287" value="Automated load plan generator that preserves service" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
           <mxGeometry x="611" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-293" value="A distance matrix creator that works" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-70">
+          <mxGeometry x="386" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-71" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-68" vertex="1">
           <mxGeometry x="24" y="440" width="966" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-72" value="Execution" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-71" vertex="1">
           <mxGeometry y="-200" width="966" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-288" value="ESRI app for new SVCs with different views and statistics" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-72">
+          <mxGeometry x="43" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-289" value="Regional App with statistics" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-72">
+          <mxGeometry x="154" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-290" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-72">
+          <mxGeometry x="272" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-291" value="Pre and post service center analysis" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-71">
+          <mxGeometry x="42" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-283" value="Yard pressure model" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-71">
+          <mxGeometry x="163" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-292" value="Revised door pressure and break model" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-71">
+          <mxGeometry x="285" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-286" value="Automated town hall meeting report" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="YpiswbPUXittL1wo25aG-71">
+          <mxGeometry x="394" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-73" value="Vision Diagrams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="53" width="960" height="20" as="geometry" />
