@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:16:39.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="E5CUZrVZ0FosXzlL7RSP" version="17.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:46:08.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="AcCAvms5KFRHkwxMcm1Z" version="17.4.0" type="github" pages="3">
   <diagram id="nBWKna1nZSuBnirQscmM" name="High Level Diagram">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,32 +36,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nPFzevppue3sUhxIeB_t-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="80" y="30" width="1040" height="550" as="geometry" />
+        <mxCell id="nPFzevppue3sUhxIeB_t-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="1040" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="nPFzevppue3sUhxIeB_t-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Strategic Network Planning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="nPFzevppue3sUhxIeB_t-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Strategic Network Planning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="490" y="85" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-3" value="Overarching Objective" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-4" value="Primary Objective" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-5" value="Load Plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="291" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-6" value="Schedule Plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="436" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-7" value="Dispatch Plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="610" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-8" value="Communication Plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPFzevppue3sUhxIeB_t-9" value="Equipment Plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="920" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-1" value="Secondary Objective&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-2" value="Function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Route Freight on Dock&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="332.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-5" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Predict Loads&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="425" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-8" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Load Freight&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Monitor Productivity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="nPFzevppue3sUhxIeB_t-4" target="nPFzevppue3sUhxIeB_t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="-nGSI3EbDuyZFgCANbuL-1" target="-nGSI3EbDuyZFgCANbuL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-nGSI3EbDuyZFgCANbuL-14" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Outbound Plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="375" y="332.5" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
