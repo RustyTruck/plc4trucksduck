@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T13:54:23.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="q7VXJIRScjRUJp1HavCq" version="17.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-25T13:58:08.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FiNwNBusXyaglqDTqjSd" version="17.4.0" type="github" pages="3">
   <diagram id="nBWKna1nZSuBnirQscmM" name="High Level Diagram">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AYPneHIGifl3LNO6MSzv-1" value="&lt;b&gt;Execution&lt;/b&gt;&lt;br&gt;New Activity Screen--&lt;br&gt;Make decision on service" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="AYPneHIGifl3LNO6MSzv-1" value="&lt;b&gt;Execution&lt;/b&gt;&lt;br&gt;New Activity Screen--&lt;br&gt;Make decision on service" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="490" width="380" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="AYPneHIGifl3LNO6MSzv-2" value="&lt;b&gt;Tactical&lt;/b&gt;&lt;br&gt;Outbound Planning&lt;br&gt;Driver Scheduling&lt;br&gt;Tactical Demand Forecasting (Influx or Weather)&lt;br&gt;Capacity Planning (Imediate Trends)" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="AYPneHIGifl3LNO6MSzv-2" value="&lt;b&gt;Tactical&lt;/b&gt;&lt;br&gt;Outbound Planning&lt;br&gt;Driver Scheduling&lt;br&gt;Tactical Demand Forecasting (Influx or Weather)&lt;br&gt;Capacity Planning (Imediate Trends)" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="500" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AYPneHIGifl3LNO6MSzv-3" value="&lt;b&gt;Strategic&lt;/b&gt;&lt;br&gt;Over Arching Demand Forecasting&lt;br&gt;Service Planning&lt;br&gt;:Load Planning&lt;br&gt;Alternate Routing" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="AYPneHIGifl3LNO6MSzv-3" value="&lt;b&gt;Strategic&lt;/b&gt;&lt;br&gt;Over Arching Demand Forecasting&lt;br&gt;Service Planning&lt;br&gt;Load Planning&lt;br&gt;Alternate Routing" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="90" width="580" height="150" as="geometry" />
         </mxCell>
         <mxCell id="AYPneHIGifl3LNO6MSzv-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AYPneHIGifl3LNO6MSzv-3" target="AYPneHIGifl3LNO6MSzv-2">
@@ -25,7 +25,7 @@
             <mxPoint x="610" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTXg_kqzTGXt8c4vDozQ-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Linehaul--Overarching Objectives&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KTXg_kqzTGXt8c4vDozQ-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Linehaul--High Level Organization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="20" width="940" height="60" as="geometry" />
         </mxCell>
       </root>
