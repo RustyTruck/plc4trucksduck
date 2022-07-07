@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T20:17:56.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="r7zgcbwBxMF-jiNQ_9wA" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T15:21:38.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="u0DON0i7LYdGo5XbnlmU" version="20.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1402" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="1hFcX5w355jq22U9mQL_-4" value="Gen 4 Site Selector" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="427" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hFcX5w355jq22U9mQL_-5" value="Introduce secondary data (e.g. traffic, zoning, rail, water, endangered species, runoff, and&amp;nbsp; etc.)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="1hFcX5w355jq22U9mQL_-5" value="Introduce secondary data (e.g. traffic, zoning, rail, water, endangered species, runoff, and&amp;nbsp; etc.)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="599" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="QA" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
@@ -49,13 +49,13 @@
         <mxCell id="1hFcX5w355jq22U9mQL_-8" value="Setup Sales Territories" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="570" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hFcX5w355jq22U9mQL_-9" value="Quality check with Data Scientist" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="1hFcX5w355jq22U9mQL_-9" value="Quality check with Data Scientist*" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="660" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1hFcX5w355jq22U9mQL_-10" value="VP Approval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="750" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hFcX5w355jq22U9mQL_-11" value="Put data into update format" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="1hFcX5w355jq22U9mQL_-11" value="Put data into update format**" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="840" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="PROD" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
@@ -126,6 +126,12 @@
         </mxCell>
         <mxCell id="1hFcX5w355jq22U9mQL_-25" value="Ops Sys (Ashley)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1hFcX5w355jq22U9mQL_-54" value="**Watch out for  split zips and the complexity associated" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1hFcX5w355jq22U9mQL_-55" value="*Watch out for large retained customers and trailer consolidations and the complexity associated" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="500" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
