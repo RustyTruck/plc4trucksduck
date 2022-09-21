@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T09:52:54.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Q-m5OqSw4pTKEUQ0Z1ot" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T10:01:44.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JqQJBNx8M_pN_6YuNL1Q" version="14.8.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -401,6 +401,9 @@
             <mxPoint x="328" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-23" value="Make a more robust driver comm system" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-54">
+          <mxGeometry x="44" y="124" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-55" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
           <mxGeometry x="24" y="214" width="963" height="199" as="geometry" />
         </mxCell>
@@ -457,7 +460,10 @@
             <mxPoint x="196.5" y="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YpiswbPUXittL1wo25aG-56" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-24" value="Projection management through new activitiy" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-55">
+          <mxGeometry x="513.5" y="109" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YpiswbPUXittL1wo25aG-56" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-53" vertex="1">
           <mxGeometry x="24" y="519" width="966" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-57" value="Execution" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
@@ -486,6 +492,9 @@
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-269" value="Toll integration" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
           <mxGeometry x="753" y="15" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-25" value="Seemless driver Projection Comm" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-57">
+          <mxGeometry x="856.5" y="15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-119" value="Schedule compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
           <mxGeometry x="34" y="110" width="80" height="80" as="geometry" />
@@ -738,8 +747,29 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-2" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="aJCjJeXkYi-TB71Nvnjo-1" vertex="1">
           <mxGeometry x="24" width="966" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-16" value="Represent technology in the truck" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-2">
+          <mxGeometry x="46" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-17" value="Review Tractor and Trailer Specs" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-2">
+          <mxGeometry x="153" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-18" value="Coordinatte major rollout" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-2">
+          <mxGeometry x="267" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-19" value="Coordinate IT &amp;amp; Maintenance Ititiaves" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-2">
+          <mxGeometry x="379" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-20" value="Create communication plans" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-2">
+          <mxGeometry x="492" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-3" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="aJCjJeXkYi-TB71Nvnjo-1" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-21" value="Develop training on rollouts" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-3">
+          <mxGeometry x="51" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zfVF9JbN6bdO8qiNXVP-22" value="Work" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="aJCjJeXkYi-TB71Nvnjo-3">
+          <mxGeometry x="160" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-4" value="Compliance/Analytics" style="swimlane;html=1;startSize=20;horizontal=0;" parent="aJCjJeXkYi-TB71Nvnjo-1" vertex="1">
           <mxGeometry x="24" y="440" width="966" height="180" as="geometry" />
