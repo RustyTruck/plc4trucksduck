@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T10:13:15.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9Hi4qqmpMDAWIpRbJ2VJ" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T12:54:16.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bayBr_oc6zTbatRMZXhL" version="17.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,11 +624,20 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-278" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Create Engineering Analysis Process&lt;br&gt;-&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-64" vertex="1">
           <mxGeometry x="33" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-9" value="Mature the RFP process at OD" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-64">
+          <mxGeometry x="141" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-3" value="Create new product on-boarding" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-64">
           <mxGeometry x="141" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-12" value="Inventory Analysis&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-64">
+          <mxGeometry x="236" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-4" value="Work with the regression testing team directtly" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-64">
           <mxGeometry x="252" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-13" value="Supply chain management" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-64">
+          <mxGeometry x="334" y="21" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-6" value="Mature the RFP process" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-64">
           <mxGeometry x="363" y="20" width="80" height="80" as="geometry" />
@@ -639,20 +648,38 @@
         <mxCell id="YpiswbPUXittL1wo25aG-65" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-63" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-3" value="Create Test Plans" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
+          <mxGeometry x="39" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-5" value="Structrure a five step testing process" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
           <mxGeometry x="42" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-4" value="1. Review Pen Tests" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
+          <mxGeometry x="148" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-7" value="Pen Test" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
           <mxGeometry x="147" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-5" value="2. Environmental Tests" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
+          <mxGeometry x="244" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-8" value="Enviornmental Test" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
           <mxGeometry x="252" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-6" value="3. Regression tests/ F(n) tests" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
+          <mxGeometry x="344" y="21" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-9" value="Regression/F(n) Test" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
           <mxGeometry x="354" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-7" value="4. Load Tests" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
+          <mxGeometry x="443" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-10" value="Load Test" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
           <mxGeometry x="454" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-8" value="5. User acceptance tests/Success Criteria" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
+          <mxGeometry x="544" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-11" value="User acceptance Test or Pilot" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-65">
           <mxGeometry x="554" y="20" width="80" height="80" as="geometry" />
@@ -663,11 +690,17 @@
         <mxCell id="YpiswbPUXittL1wo25aG-67" value="Execution" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-66" vertex="1">
           <mxGeometry y="-200" width="966" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-2" value="Execute engineering work" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YpiswbPUXittL1wo25aG-67">
+          <mxGeometry x="44" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-13" value="Use S&amp;amp;P to exectue initiave" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-67">
           <mxGeometry x="43" y="21" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-67">
           <mxGeometry x="148" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-14" value="Create the Data Scientist Position to further the department" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="YpiswbPUXittL1wo25aG-66">
+          <mxGeometry x="49" y="51" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zfVF9JbN6bdO8qiNXVP-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="YpiswbPUXittL1wo25aG-66">
           <mxGeometry x="49" y="31" width="80" height="80" as="geometry" />
