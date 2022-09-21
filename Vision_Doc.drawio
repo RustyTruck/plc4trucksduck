@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T13:51:55.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="WpThCVRimGb0TA9AUOzy" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T01:01:41.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-0g-ssHtWBRsVRlTNabz" version="17.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-251" value="Real time equipment location" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-3" vertex="1">
           <mxGeometry x="882" y="156" width="84" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="3CH9tLDlYlukdjww9sYy-1" value="Must have a robust test strategy with UAT (i.e.Work Day)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-3">
+        <mxCell id="3CH9tLDlYlukdjww9sYy-1" value="Must have a robust test strategy with UAT (i.e.Work Day)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="YpiswbPUXittL1wo25aG-3" vertex="1">
           <mxGeometry x="49" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-10" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-7" vertex="1">
@@ -152,7 +152,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-30" value="Decision Support" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="YpiswbPUXittL1wo25aG-33" vertex="1">
           <mxGeometry x="481" y="14" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3CH9tLDlYlukdjww9sYy-4" value="Data sources much match and not be duplicated" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YpiswbPUXittL1wo25aG-33">
+        <mxCell id="3CH9tLDlYlukdjww9sYy-4" value="Data sources much match and not be duplicated" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="YpiswbPUXittL1wo25aG-33" vertex="1">
           <mxGeometry x="594" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-24" value="Platform" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
@@ -178,6 +178,9 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-38" value="Managing to goal" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-25" vertex="1">
           <mxGeometry x="363" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Lt4m50y6TdpLlkC5ikHA-1" value="Work together with Field Service to create one vision" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YpiswbPUXittL1wo25aG-25">
+          <mxGeometry x="473" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-31" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-24" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
         </mxCell>
@@ -190,7 +193,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-60" value="Outbound Planning Product" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="YpiswbPUXittL1wo25aG-31" vertex="1">
           <mxGeometry x="479" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-64" value="ERM interface with Workforce" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-31" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-64" value="ERM interface with Workforce" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-31" vertex="1">
           <mxGeometry x="364" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-65" value="Outbound Planning interface&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-31" vertex="1">
@@ -267,13 +270,13 @@
         <mxCell id="YpiswbPUXittL1wo25aG-35" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-34" vertex="1">
           <mxGeometry x="24" width="966" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-76" value="Work Force Planning" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-76" value="Work Force Planning" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
           <mxGeometry x="134" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-77" value="Work Force Scheduling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-77" value="Work Force Scheduling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-78" value="Scheduling and planning real time adjustments" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-78" value="Scheduling and planning real time adjustments" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
           <mxGeometry x="244" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-79" value="Managing to goal" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-35" vertex="1">
@@ -285,10 +288,10 @@
         <mxCell id="YpiswbPUXittL1wo25aG-41" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-34" vertex="1">
           <mxGeometry x="24" y="120" width="966" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-80" value="Pick-up projection" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-41" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-80" value="Pick-up projection" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-41" vertex="1">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-82" value="Assigning Work" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-41" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-82" value="Assigning Work" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="YpiswbPUXittL1wo25aG-41" vertex="1">
           <mxGeometry x="134" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-83" value="RPE/ERM interface with Workforce" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-41" vertex="1">
@@ -379,18 +382,18 @@
           <mxGeometry x="778" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-252" value="TPA Decision Support" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="YpiswbPUXittL1wo25aG-54" vertex="1">
-          <mxGeometry x="378" y="20" width="140" height="104" as="geometry">
+          <mxGeometry x="378" y="20" width="162" height="104" as="geometry">
             <mxRectangle x="378" y="20" width="150" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-253" value="Re-imagine load planning" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aJCjJeXkYi-TB71Nvnjo-252" vertex="1">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+          <mxGeometry y="26" width="162" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-254" value="Re-imaging schedule planning&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aJCjJeXkYi-TB71Nvnjo-252" vertex="1">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-254" value="Re-imaging schedule planning&#xa;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aJCjJeXkYi-TB71Nvnjo-252" vertex="1">
+          <mxGeometry y="52" width="162" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-255" value="Load plan application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aJCjJeXkYi-TB71Nvnjo-252" vertex="1">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+          <mxGeometry y="78" width="162" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-256" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="YpiswbPUXittL1wo25aG-54" source="aJCjJeXkYi-TB71Nvnjo-107" target="aJCjJeXkYi-TB71Nvnjo-252" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -425,7 +428,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-125" value="Real time equipment status with ELD" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-55" vertex="1">
           <mxGeometry x="727" y="13" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-258" value="Common Path Arch" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="YpiswbPUXittL1wo25aG-55" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-258" value="Common Path Arch" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-55" vertex="1">
           <mxGeometry x="248" y="20" width="140" height="174" as="geometry">
             <mxRectangle x="248" y="25" width="132" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -466,7 +469,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-128" value="Due date compliance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
           <mxGeometry x="149" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-129" value="&amp;nbsp;Schedule discipline monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-129" value="&amp;nbsp;Schedule discipline monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
           <mxGeometry x="254" y="15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-130" value="Use of prioritization" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
@@ -481,7 +484,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-189" value="Slack time management" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
           <mxGeometry x="646" y="15" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-269" value="Toll integration" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-269" value="Toll integration" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YpiswbPUXittL1wo25aG-57" vertex="1">
           <mxGeometry x="753" y="15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-119" value="Schedule compliance" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
@@ -517,7 +520,7 @@
         <mxCell id="aJCjJeXkYi-TB71Nvnjo-144" value="Dispatcher evaluation metrics" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
           <mxGeometry x="413" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-225" value="Linehaul System Health Product" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-225" value="Linehaul System Health Product" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-56" vertex="1">
           <mxGeometry x="34" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-58" value="Yard" style="swimlane;horizontal=0;" parent="1" vertex="1">
@@ -609,7 +612,7 @@
         <mxCell id="YpiswbPUXittL1wo25aG-64" value="Strategy" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-63" vertex="1">
           <mxGeometry x="24" width="966" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aJCjJeXkYi-TB71Nvnjo-278" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" parent="YpiswbPUXittL1wo25aG-64" vertex="1">
+        <mxCell id="aJCjJeXkYi-TB71Nvnjo-278" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Create Engineering Analysis Process&lt;br&gt;-&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fillColor=#d5e8d4;strokeColor=#82b366;" parent="YpiswbPUXittL1wo25aG-64" vertex="1">
           <mxGeometry x="33" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpiswbPUXittL1wo25aG-65" value="Planning/Tactical" style="swimlane;html=1;startSize=20;horizontal=0;" parent="YpiswbPUXittL1wo25aG-63" vertex="1">
