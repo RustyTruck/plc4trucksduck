@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T05:13:40.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="kWhBcneyaoxLgH-mk3f5" type="github"><diagram id="_JUVwowrewQo4bYCdoLf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-27T05:25:22.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DpneirFw3-1XGwnL3uVT" version="20.3.3" type="github">
+  <diagram id="_JUVwowrewQo4bYCdoLf" name="Page-1">
+    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-1" value="1.0 Create Driver Assignment in the New Activity Screen (TMS)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="505" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-2" value="1.2 Show Driver Schedule Information" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-3" value="1.3 Assign Drivers to Schedule, Load, and Timeslot" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-4" value="1.4Integrate Driver information with WorkDay" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-5" value="1.5 Train Dispatchers on Product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-6" value="1.6 Retire predecessor product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="850" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-7" value="1.2.1 Integrate with Bid-Power" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="374" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-8" value="1.2.2 Integrate with trailer schedule" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-9" value="1.2.3 Integrate with Load Plan" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-10" value="1.3.3 Communicate with ELD" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-11" value="1.3.1 Show assignement status" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="425" y="374" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-12" value="1.3.2 Show meet-and-turn" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-13" value="1.4.1 Show driver comment app results" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="374" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-14" value="1.4.1 Integrate with WorkDay to show vacation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-15" value="1.5.1 Conduct Focus Group" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="374" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-16" value="1.5.2 Review feedback" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-17" value="1.5.3 Communication to all dispatchers" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-18" value="1.6.1 Access dependencies&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="374" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d1d6YFAuvE6O0bgRr6xX-19" value="Create Lockout program" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
