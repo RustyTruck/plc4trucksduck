@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T20:43:15.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pi04On8RhcDlXsSE4poC" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T20:47:25.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wPEYSwG9A4F2JerOgrYi" version="20.3.3" type="github">
   <diagram id="9ryGAYnsp60zznlVaLfw" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
           <mxGeometry x="650" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQjPy86mHkucHI1g0aib-91" value="Monthly Repair Bill" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="680" y="630" width="80" height="100" as="geometry" />
+          <mxGeometry x="680" y="620" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VQjPy86mHkucHI1g0aib-92" value="Alissa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1075" y="530" width="60" height="30" as="geometry" />
