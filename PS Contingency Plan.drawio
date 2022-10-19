@@ -1,125 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T14:30:37.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vp-mHKPCNlJLjdaMw66s" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T18:08:47.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wl0YHpvIrp4y6FzAEzkP" version="20.3.3" type="github">
   <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
-    <mxGraphModel dx="3175.5" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="279d4c6e8b4f5ae2-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
-          <mxGeometry x="594" y="604" width="20" height="240" as="geometry" />
+          <mxGeometry x="506.24" y="576.33" width="20" height="546" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
-          <mxGeometry x="799" y="604" width="20" height="240" as="geometry" />
+          <mxGeometry x="708.37" y="575.43" width="20" height="556" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
-          <mxGeometry x="1029" y="604" width="20" height="240" as="geometry" />
+          <mxGeometry x="941.65" y="576.46" width="20" height="544.57" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="599" y="59" width="20" height="1121" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
-          <mxGeometry x="272" y="384" width="20" height="240" as="geometry" />
+          <mxGeometry x="228.47" y="187.65" width="20" height="446" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
-          <mxGeometry x="498" y="391" width="20" height="240" as="geometry" />
+          <mxGeometry x="452.11" y="192.17" width="20" height="440.79" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
-          <mxGeometry x="710" y="391" width="20" height="240" as="geometry" />
+          <mxGeometry x="678" y="259.09" width="20" height="366.56" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-9" value="Dispatcher Training,&lt;br&gt;Have a one sheet handout, print out seven days of logs, establish login let driver login,driver direct? Do they need a bat-phone?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-2" y="190" width="279" height="204" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-9" value="Dispatcher Training,&lt;br&gt;Have a one sheet handout, print out seven days of logs, establish login let driver login,&lt;b&gt;driver direct&lt;/b&gt;? Do they need a bat-phone?&lt;br&gt;(Goto Paper)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="17.98" y="10" width="279" height="204" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-10" value="Drive must pull over and create seven days of logs. Does Coretex have a good mobile app version?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="318" y="210" width="169" height="184" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-10" value="Drive must pull over and create seven days of logs. Does Coretex have a good mobile app version?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="310" y="30" width="169" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-11" value="The swapped tractor has a Coretex System. 1. Print Seven Days of logs from Platform Science. 2. Run Paper Logs? 3. Shop must communicate how long they project the tractor down to the pilot team. Need a method to communicate situation to the driver.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="498" y="130" width="320" height="264" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-11" value="The swapped tractor has a Coretex System. 1. Print Seven Days of logs from Platform Science. 2. Run Paper Logs? 3. Shop must communicate how long they project the tractor down to the pilot team. Need a method to communicate situation to the driver.&amp;nbsp; Need a methodology to identify driver as pilot driver" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="496.75" y="10" width="320" height="264" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-12" value="How do we dianose failure? Triage steps? Platform contact? Possible mitigations?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="385" y="816" width="172" height="144" as="geometry" />
+          <mxGeometry x="235.25" y="1060" width="172" height="144" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-13" value="Do we want this driver to call driver direct line or bat phone?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="672" y="816" width="158" height="114" as="geometry" />
+          <mxGeometry x="456" y="1075" width="158" height="114" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-14" value="Need to know communication plan for driver, pilot team, and triage steps for platform science" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="902" y="816" width="228" height="124" as="geometry" />
+          <mxGeometry x="676.7" y="1070" width="228" height="124" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-15" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1171" y="560" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-16" value="No login" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="158" y="391" width="20" height="110" as="geometry" />
+          <mxGeometry x="110" y="247" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-17" value="Driver doesn&#39;t communicate &lt;br&gt;until Disapatch fails" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="361" y="391" width="20" height="110" as="geometry" />
+          <mxGeometry x="304.38" y="218.13" width="33.75" height="181.5" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-18" value="Shop recomends &lt;br&gt;a tractor swap" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="592" y="391" width="20" height="110" as="geometry" />
+          <mxGeometry x="532" y="264" width="32" height="180" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-19" value="Contact Platform Science?" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="506" y="706" width="20" height="110" as="geometry" />
+          <mxGeometry x="472.75" y="697.25" width="20" height="144.5" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-20" value="Local Liason is&lt;br&gt;&amp;nbsp;not available" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="709" y="706" width="20" height="110" as="geometry" />
+          <mxGeometry x="515" y="925" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-21" value="Contact Platform Science or IT?" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="940" y="706" width="20" height="110" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-21" value="Contact Platform Science or IT?" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1025.46" y="822.5" width="20" height="345" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-22" value="No communication to&amp;nbsp;&lt;br&gt;the pilot driver" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="198" y="475" width="20" height="110" as="geometry" />
+          <mxGeometry x="135" y="375" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-23" value="Driver switches to &lt;br&gt;a pilot tractor" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="401" y="475" width="20" height="110" as="geometry" />
+          <mxGeometry x="398.38" y="435.13" width="27.75" height="197.5" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-24" value="Truck doesn&#39;t Start" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="632" y="475" width="20" height="110" as="geometry" />
+          <mxGeometry x="618.25" y="436.25" width="20" height="187.5" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-25" value="Platform Science &lt;br&gt;CVD or CTP fails" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="557" y="635" width="20" height="110" as="geometry" />
+          <mxGeometry x="496.75" y="590.25" width="35.5" height="215" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-26" value="Pilot driver has&lt;br&gt;a question" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="760" y="635" width="20" height="110" as="geometry" />
+          <mxGeometry x="647.5" y="742.5" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-27" value="Software Fails" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="975.5" y="660" width="20" height="110" as="geometry" />
+          <mxGeometry x="870" y="798.4300000000001" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-22" value="&amp;nbsp;The tablet fails" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="237" y="620" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-22" value="&amp;nbsp;The tablet fails" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="162.97" y="623.5" width="20" height="201" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" vertex="1" parent="1">
-          <mxGeometry x="272" y="604" width="20" height="240" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
+          <mxGeometry x="189.98" y="578.14" width="20" height="526" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-20" value="Will there be any extra tablets for issue?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="120" y="801" width="172" height="144" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-20" value="Will there be any extra tablets for issue?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="17.98" y="1050" width="172" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-21" value="Do we have an extra tablet?" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="217" y="660" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-21" value="Do we have an extra tablet?" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="120" y="820" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-26" value="Do we have triage steps?&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="190" y="700" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-26" value="Do we have triage steps?&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="193.47" y="895" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="384" width="20" height="240" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
+          <mxGeometry x="997.96" y="135.72" width="20" height="500.48" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-28" value="How do we check for integration failure? Are we able to correct trailer status issues? What options do drivers and dispatchers?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="850" y="250" width="311" height="144" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-28" value="How do we check for integration failure? Are we able to correct trailer status issues? What options do drivers and dispatchers?" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="830" y="20" width="311" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zy36G96wiUoJhvqa7v5U-29" target="Zy36G96wiUoJhvqa7v5U-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-29" value="Fail at a meet one driver has a&lt;br&gt;Coretex one has PS (integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1107.16" y="52.72" width="42.02" height="365.96" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-29" value="Fail at a meet one driver has a&lt;br&gt;Coretex one has PS (integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="940" y="391" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-30" value="Driver doesn&#39;t get a &lt;br&gt;hook card (integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="817.5" y="202.5" width="35" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-30" value="Driver doesn&#39;t get a &lt;br&gt;hook card (integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="971" y="440" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-32" value="Dispatch/arrival fails&amp;nbsp;(integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="850" y="260" width="20" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-32" value="Dispatch/arrival fails&amp;nbsp;(integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="995.5" y="480" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-34" value="Messaging fails (integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="904.7" y="340.82" width="20" height="243.88" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-34" value="Messaging fails (integration fails)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1015.5" y="521" width="20" height="110" as="geometry" />
+        <mxCell id="Zy36G96wiUoJhvqa7v5U-38" value="Time available&lt;br&gt;&amp;nbsp;inaccurate, incomplete" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1100.29" y="690.39" width="33.14" height="205.88" as="geometry" />
         </mxCell>
-        <mxCell id="Zy36G96wiUoJhvqa7v5U-38" value="Time available&lt;br&gt;&amp;nbsp;inaccurate, incomplete" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="995.5" y="620" width="20" height="110" as="geometry" />
+        <mxCell id="BP2a3AX65nLKWs-mxMTx-10" value="Pilot Driver line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="62" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
