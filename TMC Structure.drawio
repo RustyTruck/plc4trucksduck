@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T17:23:54.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="m0LO6KZiBnzYTFVdUioh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T18:26:42.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XAmvKy5pg1lCyCQa8H4C" version="20.5.3" type="github">
   <diagram id="VlyM_qsbqjkip8Nx2KwZ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,6 +46,12 @@
         <mxCell id="Vwr5HX8z7xjedgtPh4Au-15" value="5 month Task Force Execution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n2S20jCCv5cZMQg2Qm6D-3">
           <mxGeometry x="10" y="340" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vwr5HX8z7xjedgtPh4Au-32" value="30 Days Prior&lt;br&gt;to public forum" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="n2S20jCCv5cZMQg2Qm6D-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="620" as="sourcePoint" />
+            <mxPoint x="120" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n2S20jCCv5cZMQg2Qm6D-4" value="Tech Advisors" style="swimlane;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="n2S20jCCv5cZMQg2Qm6D-1" vertex="1">
           <mxGeometry x="360" width="120" height="730" as="geometry" />
         </mxCell>
@@ -67,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vwr5HX8z7xjedgtPh4Au-30" value="What does a second vice chair do? Do they lead the tech advisers? Second vice chair does not assign tech advisers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="n2S20jCCv5cZMQg2Qm6D-4">
+        <mxCell id="Vwr5HX8z7xjedgtPh4Au-30" value="What does a second vice chair do? Do they lead the tech advisers? Second vice chair does not assign tech advisors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="n2S20jCCv5cZMQg2Qm6D-4">
           <mxGeometry y="190" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n2S20jCCv5cZMQg2Qm6D-5" value="RP Specialist" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="n2S20jCCv5cZMQg2Qm6D-1" vertex="1">
@@ -189,7 +195,7 @@
         </mxCell>
         <mxCell id="Vwr5HX8z7xjedgtPh4Au-2" value="30 Day limit to &lt;br&gt;find a chair,&amp;nbsp;&lt;br&gt;otherwise drop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vwr5HX8z7xjedgtPh4Au-1">
           <mxGeometry x="0.2889" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vwr5HX8z7xjedgtPh4Au-11" value="30 Day limit&lt;br&gt;to assess" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
