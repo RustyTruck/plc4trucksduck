@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T22:12:39.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.6.0" etag="hDiJfX1C_gVLUZEe5Kxi" type="github"><diagram id="Q26B66IjvUnZCd3lYSPy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T15:01:33.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.6.0" etag="xO3cApPjxZmmN2vVL18K" type="github">
+  <diagram id="JY40GRhvuqnuXZpo6NUc" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-1" value="Driver Logs into Projections 105085 (t)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-2" value="Driver Hooks Trailers 105085(t)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-7" value="Dispatch(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-9" value="Okta timeout, 15 mins" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-10" value="New Driver Login (t) 102022" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-11" value="Current Scenario Shared Tractor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-12" value="Proposed&amp;nbsp; Scenario, Shared Tractor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-20" value="60 Minute Timeout" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="460" as="sourcePoint" />
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="230" as="sourcePoint" />
+            <mxPoint x="210" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-22" value="Driver Logs into Projections 105085 (t)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-23" value="Driver Hooks Trailers 105085(t)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-24" value="Dispatch(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6IfHRqYHwt67mDm4m-z-25" value="New Driver Login (t) 102022" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
