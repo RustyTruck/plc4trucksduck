@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T23:07:23.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="nTxdE3sJdjWIvY3MxsdE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T23:20:52.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="p1jP_Mcld2jVs008vamN" version="21.6.8" type="github">
   <diagram name="Page-1" id="qD5pyhDyu8m_vi3F-uZZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pTNfW5_rCmqMBfKQuf1b-1" value="&lt;b&gt;Project Management Planning and Control&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Project Planning&lt;/b&gt;&lt;br&gt;Work Breakdown Structure (WBS)&lt;br&gt;Cost and Schedules&lt;br&gt;&lt;br&gt;&lt;b&gt;Resource Allocation&lt;br&gt;&lt;/b&gt;Manpower&lt;br&gt;Facilities&lt;br&gt;&lt;br&gt;&lt;b&gt;Financial&amp;nbsp;and contract management&lt;br&gt;&lt;/b&gt;Program commitments and Subcontractors&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="520" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="pTNfW5_rCmqMBfKQuf1b-2" value="&lt;b&gt;System Engineering&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Systems architecture&lt;/b&gt;&lt;br&gt;Concept Design&lt;br&gt;Functional allocation&lt;br&gt;&lt;br&gt;&lt;b&gt;Technical Coordination&lt;br&gt;&lt;/b&gt;Technical disciplines&lt;br&gt;Subcontractors&lt;br&gt;&lt;br&gt;&lt;b&gt;Systems Integration&lt;br&gt;&lt;/b&gt;Interface management&lt;br&gt;Verification and validation" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="520" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pTNfW5_rCmqMBfKQuf1b-3" value="Task Definition&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Task allocation&lt;br&gt;Program reviews&lt;br&gt;&lt;/span&gt;&lt;br&gt;Risk management&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Risk Assessment&lt;br&gt;Risk Mitigation&lt;br&gt;&lt;/span&gt;&lt;br&gt;Customer Interaction&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Management&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Technical&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="399" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTNfW5_rCmqMBfKQuf1b-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="1020" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="pTNfW5_rCmqMBfKQuf1b-5" value="&lt;b&gt;Project Management&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
