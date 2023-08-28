@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T04:51:54.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y6KjoKv0PN4U22u_0I-t" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T04:55:51.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iD3H47ia5-3tSu4XqN8Y" version="21.6.8" type="github">
   <diagram name="Page-1" id="mtxGZifbMSf4-Xfl5Sib">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1055,6 +1055,12 @@
         </mxCell>
         <mxCell id="mFHz-soiO2yezQs8AwRs-365" value="Operational" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="2024.28" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mFHz-soiO2yezQs8AwRs-366" value="&lt;h1&gt;A robotic transportation system used in a wholesale distribution center or warehouse.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="50" width="1025" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mFHz-soiO2yezQs8AwRs-367" value="&lt;h1&gt;&lt;p style=&quot;margin-top:9.0pt;margin-right:0in;margin-bottom:&lt;br/&gt;9.0pt;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;line-height:normal;&lt;br/&gt;mso-list:l0 level1 lfo1;background:white&quot; class=&quot;MsoListParagraph&quot;&gt;A Passenger Airliner&amp;nbsp;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="970" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
